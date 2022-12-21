@@ -1,6 +1,6 @@
 ![](gif.gif)
 
-#`Hi there!`💜
+#Hi there!💜
 
 ## Something about me ^-^
 * 👀 I’m interested in Information Security, CTF.    *(P.S. just a beginner - nothing special)*</li>
