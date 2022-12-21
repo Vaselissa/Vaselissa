@@ -5,6 +5,7 @@
 ## Something about me ^-^
 * 👀 I’m interested in Information Security, CTF.    *(P.S. just a beginner - nothing special)*</li>
 * 📓 I write code mostly in C </li>
+* 🔐 Future information security specialist
 
 <!--* 😄 Ready to mingle!-->
 
