@@ -3,7 +3,7 @@
 # Hi there!💜
 
 ## Something about me ^-^
-* 👀 I’m interested in Information Security, CTF.    *(P.S. just a beginner - nothing special)*</li>
+* 👀 I’m interested in Information Security, CTF. </li>
 * 📓 I write code mostly in C </li>
 * 🔐 Future information security specialist
 
